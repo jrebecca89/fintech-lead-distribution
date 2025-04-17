@@ -57,3 +57,25 @@ Built a mobile-first loan efficiency dashboard using Google Sheets and Excel to 
 - Interview top performers to document efficient workflows.
 - Use automation or SOPs to reduce handoff delays.
 - Train reps using a Loan Ops Playbook.
+# Fintech Lead Distribution Dashboard
+
+## Objective  
+Analyze whether fintech sales leads are fairly distributed and whether reps are most efficient when working with matched vs mismatched lead profiles.
+
+## Key Metrics  
+- **Match vs Mismatch Close Rate** – Are reps closing more when matched with leads that fit their strengths?  
+- **Average Response Time (Days)** – How long each rep takes to respond.  
+- **Total Hours Spent** – Sum of hours spent on follow-ups.  
+- **Lead Profile Filters** – Slice data by High/Low Credit and High/Low Income.
+
+## Tools  
+- Power BI  
+- DAX
+
+## Dashboard Preview  
+This visual compares average response time and total effort (in hours) by rep and lead profile to uncover efficiency patterns.
+
+![Dashboard Screenshot](./dashboard-preview.png)
+
+## File  
+- `Fintech_Lead_Distribution_Analysis.pbix` – Full interactive dashboard.
