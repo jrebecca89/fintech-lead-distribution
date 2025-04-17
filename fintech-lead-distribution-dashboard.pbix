@@ -1,0 +1,20 @@
+# Fintech Lead Distribution Dashboard (Power BI)
+
+This project analyzes the efficiency and fairness of lead distribution in a simulated fintech sales environment.
+
+### Key Metrics:
+- **Match vs Mismatch Close Rate** – Are reps closing more when matched with the right profiles?
+- **Average Response Time (Days)** – How fast reps respond to leads.
+- **Total Hours Spent** – Time investment per rep.
+- **Lead Profile** filters – Slice data by credit & income group.
+
+### Tools Used:
+- Power BI
+- DAX (CALCULATE, AVERAGE, DIVIDE)
+
+### Purpose:
+To optimize lead routing by analyzing rep performance across different lead profiles, helping fintech sales teams increase efficiency and close rates.
+
+---
+
+*Built by Jonathan Rebecco — [LinkedIn](https://linkedin.com/in/jonathan-rebecca-b610b625a)*
