@@ -17,4 +17,4 @@ This project analyzes the efficiency of lead assignments in a fintech sales team
 ## Dashboard Preview  
 This visual compares average response time and total effort (in hours) by rep and lead profile to uncover efficiency patterns.
 
-![Dashboard Preview](dashboard-preview.jpg)
+![Dashboard Preview](dashboard-preview.jpg.)
