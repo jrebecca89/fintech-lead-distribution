@@ -39,7 +39,7 @@ To assess the impact of rep-lead alignment on close rates and revenue, and uncov
 - A mismatch in lead profiles and rep history correlated with longer response times and lower efficiency.
 
 ## Dashboard Preview  
-![Dashboard Preview](dashboard-preview.jpg)
+![Dashboard Preview](dashboard-preview.jpg.)
 
 ## How It Was Built  
 1. Created a mock dataset simulating lead assignments and rep performance.  
